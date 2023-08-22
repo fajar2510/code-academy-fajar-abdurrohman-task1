@@ -7,4 +7,9 @@
 5. Git commit
 6. Git push
 7. Git reset/reverse
+   
+## Tugas
+1. Add screenshoot belajar dari codecademy "Learn Javascript"
+2. Lalu push file .jpg kalian ke repository.
+   
 ### Terimakasih.
